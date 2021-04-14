@@ -83,5 +83,5 @@ This is a list of rules to mitigate the risk of spreading COVID-19. \(Last updat
 
 \(The SHOP is part of the LAB\)  
   
-Thank you for helping to keep Fat Cat Fab Lab a safe place.
+Thank you for helping to keep Fat Cat Fab Lab a safe place!
 
