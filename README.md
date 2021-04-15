@@ -4,7 +4,7 @@
 
 At Fat Cat Fab Lab, we assume that most people are intelligent, well-intended, and respectful of others, and we’re inclined to give our community and attendees the benefit of the doubt that they act accordingly at our events or events we help promote.
 
-However, recent cases of bad or disrespectful behavior in and around technology events have led us to the conclusion that it’s sometimes necessary to spell out the behavior we support and don’t support at our events.
+However, recent incidents of bad or disrespectful behavior in and around technology events have led us to the conclusion that it’s sometimes necessary to spell out the behavior we support and don’t support at our events.
 
 Here’s the deal: We will do whatever we believe is necessary to ensure that a Fat Cat Fab Lab community event, conference, or training is a safe and productive environment for everyone.
 
@@ -24,8 +24,7 @@ Fat Cat Fab Lab is committed to creating diverse and inclusive events and encour
 
 Please bring any concerns or occurrences of bad or offensive behavior to the immediate attention of our event staff at info@FatCatFabLab.org
 
-We thank our attendees for their help in keeping our events welcoming, respectful, and friendly to all participants.  
-
+We thank our attendees for their help in keeping our events welcoming, respectful, and friendly to all participants.
 
 ## Rules & Policies
 
@@ -81,7 +80,7 @@ This is a list of rules to mitigate the risk of spreading COVID-19. \(Last updat
 | :--- | :--- |
 | SHOP CAPACITY | 3 |
 
-\(The SHOP is part of the LAB\)  
-  
+\(The SHOP is part of the LAB\)
+
 Thank you for helping to keep Fat Cat Fab Lab a safe place ♥️
 
