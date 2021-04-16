@@ -7,7 +7,3 @@
 
 * [Welding with Electricity](classes-and-workshops/welding.md)
 
-## General
-
-* [Untitled](general/untitled.md)
-
