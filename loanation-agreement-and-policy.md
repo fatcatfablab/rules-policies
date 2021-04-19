@@ -18,10 +18,6 @@
 
 ## Agreement
 
-This is an agreement between \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ hereafter referred to as Member, and the Fat Cat Fab Lab board, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ hereafter referred to as The Board.  
-  
-
-
 Member agrees:  
 
 1. to bring in a piece of their equipment on a permanent basis; 
@@ -41,16 +37,9 @@ The Board agrees to:
 5. give the Member notice of 14-30 days to remove the equipment if a resolution cannot be found.
 6. accept an appeal to a decision to remove. 
 
-Member Printed Name \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+### Equipment List
 
-
-Member Signature\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-  
-  
-
-
-Board Member Printed Names \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-
-
-Board Member Signatures\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+| Name | Equipment | Date |
+| :--- | :--- | :--- |
+| Peter Hartmann | Drill Press | 2021-04-19 |
 
