@@ -4,7 +4,7 @@
 
 At Fat Cat Fab Lab, we assume that most people are intelligent, well-intended, and respectful of others, and we’re inclined to give our community and attendees the benefit of the doubt that they act accordingly at our events or events we help promote.
 
-However, recent incidents of bad or disrespectful behavior in and around technology events have led us to the conclusion that it’s sometimes necessary to spell out the pro-social behavior we support and behaviors we condone at our events.
+However, recent cases of bad or disrespectful behavior in and around technology events have led us to the conclusion that it’s sometimes necessary to spell out the pro-social behavior we support and behaviors we condone at our events.
 
 Here’s the deal: We will do whatever we believe is necessary to ensure that a Fat Cat Fab Lab community event, conference, or training is a safe and productive environment for everyone.
 
