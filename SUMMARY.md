@@ -1,10 +1,15 @@
 # Table of contents
 
-* [Code of Conduct](README.md)
-* [“Loanation” Agreement and Policy](loanation-agreement-and-policy.md)
+* [Welcome!](README.md)
 
 ## Classes & Workshops
 
 * [Welding with Electricity](classes-and-workshops/welding/README.md)
+  * [Welding Checklist](classes-and-workshops/welding/welding-checklist.md)
   * [Safety & Usage Agreement](classes-and-workshops/welding/safety-and-usage-agreement.md)
+
+## Rules & Policies
+
+* [“Loanation” Agreement and Policy](rules-and-policies/loanation-agreement-and-policy.md)
+* [Code of Conduct](rules-and-policies/rules.md)
 
