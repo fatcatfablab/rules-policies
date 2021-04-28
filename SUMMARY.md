@@ -5,5 +5,6 @@
 
 ## Classes & Workshops
 
-* [Welding with Electricity](classes-and-workshops/welding.md)
+* [Welding with Electricity](classes-and-workshops/welding/README.md)
+  * [Safety & Usage Agreement](classes-and-workshops/welding/safety-and-usage-agreement.md)
 
