@@ -12,4 +12,5 @@
 
 * [“Loanation” Agreement and Policy](rules-and-policies/loanation-agreement-and-policy.md)
 * [Code of Conduct](rules-and-policies/rules.md)
+* [Member-Led Improvement Projects](rules-and-policies/member-led-improvement-projects.md)
 
