@@ -78,7 +78,7 @@ This is a list of rules to mitigate the risk of spreading COVID-19. \(Last updat
 14. If a member is caught violating these new rules, they will be notified and reminded to follow these rules. After 3 notices, your access will be temporarily suspended for 7 days. Repeated violations could result in suspension of membership.
 15. Note: These rules may change, with or without notice, in order to comply with local, state and national regulations and to implement best practices.
 
-| TOTAL LAB CAPACITY | 8 |
+| TOTAL LAB CAPACITY | 10 |
 | :--- | :--- |
 | SHOP CAPACITY | 3 |
 
