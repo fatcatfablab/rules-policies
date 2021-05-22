@@ -12,7 +12,7 @@
 
 * [Member Frequently Asked Questions](organizational-process/member-frequently-asked-questions.md)
 * [FCFL is a Not-For-Profit](organizational-process/fcfl-is-a-not-for-profit.md)
-* [Organizational Structure](organizational-process/organizational-structure.md)
+* [Organizational Structure \(work in progress\)](organizational-process/organizational-structure.md)
 * [Member-Led Improvement Projects](organizational-process/member-led-improvement-projects.md)
 
 ## Rules & Policies

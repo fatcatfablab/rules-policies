@@ -1,4 +1,4 @@
-# Organizational Structure
+# Organizational Structure \(work in progress\)
 
 Being a [not-for-profit,](fcfl-is-a-not-for-profit.md) the structure of Fat Cat Fab Lab can be whatever we want it to be, though we strive to have a relatively flat structure and self-organized hierarchy. 
 
