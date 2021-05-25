@@ -1,7 +1,5 @@
 # Code of Conduct
 
-## 
-
 ![](https://lh3.googleusercontent.com/mqJ-uVRHrGPY8nlHRAJigml569UVNIihvsnr6jf9V7aKI1hfTIxVUC_03ekz9UsZwquWNQJN8M84nCfUnRRQOV39Io5KjVUDeJ8h08DBGxKxDDNw7dBSRcnqcnxZqzeqpmXKzSkt)
 
 At Fat Cat Fab Lab, we assume that most people are intelligent, well-intended, and respectful of others, and we’re inclined to give our community and attendees the benefit of the doubt that they act accordingly at our events or events we help promote.
@@ -20,7 +18,7 @@ Our zero tolerance Code of Conduct includes, but is not limited to: Sexual or ra
 
 Stalking, offensive comments, and unwanted sexual advances toward attendees. To borrow a line from the Flickr Community Guidelines, which use the term Creepiness: “You know the guy. Do not be that guy.” If we hear that you are “that guy” \(regardless of your gender\), we will investigate and take any action we feel is appropriate, including asking you to leave.
 
-#### Diversity Statement
+### Diversity Statement
 
 Fat Cat Fab Lab is committed to creating diverse and inclusive events and encourage people to apply to speak regardless of gender identity or expression, age \(students and retired folks welcome!\), family or marital status, national origin, physical and mental ability, race, ethnicity, religion, socioeconomic status, veteran status, or sexual orientation. We believe the best events are ones where all types of people feel welcome and included, and are represented in both the audience and the speakers. Please join us!
 
@@ -28,19 +26,19 @@ Please bring any concerns or occurrences of bad or offensive behavior to the imm
 
 We thank our attendees for their help in keeping our events welcoming, respectful, and friendly to all participants.
 
-### Rules & Policies
+## Rules & Policies
 
-#### Using the Facilities
+### Using the Facilities
 
 1. Upon completion of the membership orientation, Member can utilize FCFL at any time during normal operating hours. Member agrees to observe posted space reservations and noise restrictions. Reservations will be posted on the public calendar.   
 2. Everyone must complete a basic usage and safety training on the advanced tools \(Laser cutter, CNC, table saw, shop tools\) before use.
 3. Members are allowed to store personal food in the refrigerator. All food that is left overnight or is unlabeled may be disposed of without notice. Regular abuse of the community refrigerator may result in member being banned from use.
 
-#### Personal Property
+### Personal Property
 
 1. FCFL bears no responsibility in the event a personal item is lost or stolen on the premises.
 
-#### Facility Management & Security
+### Facility Management & Security
 
 1. Keep the doors locked or supervised at all times. 
 2. Member may not admit anyone to the FCFL Property who is not their guest. Members need to purchase a guest pass for their guests, however guest passes are not required for giving tours. 
@@ -51,11 +49,11 @@ We thank our attendees for their help in keeping our events welcoming, respectfu
 7. Respect all private and shared property. Damaging or misplacing said property will require restitution and may involve other penalties, up to and including criminal prosecution.
 8. Be excellent to each other.
 
-#### Privacy
+### Privacy
 
 1. Member permits FCFL to photograph or write about their activities at FCFL. FCFL is free to publish such materials in internal and external materials. While the default mode of operation at FCFL is public, Members may request that specific conversations, activities, or documents remain private upon making reservations or by posting or announcing the request for privacy and confidentiality.
 
-#### COVID-19 specific
+### COVID-19 specific
 
 This is a list of rules to mitigate the risk of spreading COVID-19. \(Last updated: 03/17.2021\)
 

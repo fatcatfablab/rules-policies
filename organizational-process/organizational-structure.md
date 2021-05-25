@@ -119,6 +119,41 @@ The not-for-profit organization must maintain complete, current and accurate fin
 Adequate training and supervision should be provided to individuals soliciting funds on behalf of your organization, and proper record keeping should be expected.  
 
 
+##   ****A bunch of good makerspace documentation examples
+
+**good example of roles and division of Leadership – Lowell Makes** [**https://lowellmakes.com/leadership/**](https://lowellmakes.com/leadership/)
+
+**Frequently Asked Questions – BOSTON MAKERS -** [**https://www.bostonmakers.org/faq/**](https://www.bostonmakers.org/faq/)
+
+**FAQs \| Artisan's Asylum BookStack -** [**https://bookstack.artisansasylum.com/books/member-handbook/page/faqs**](https://bookstack.artisansasylum.com/books/member-handbook/page/faqs)
+
+**Resources for New Instructors -** [**https://bookstack.artisansasylum.com/books/instructor-handbook/page/welcome-to-artisans-asylum-resources-for-new-instructors**](https://bookstack.artisansasylum.com/books/instructor-handbook/page/welcome-to-artisans-asylum-resources-for-new-instructors)
+
+**example roles and titles - Staff and Lead Directory \| Artisan's Asylum BookStack -** [**https://bookstack.artisansasylum.com/books/member-handbook/page/staff-and-lead-directory\#bkmrk-staff**](https://bookstack.artisansasylum.com/books/member-handbook/page/staff-and-lead-directory#bkmrk-staff)
+
+**organizational structure - Solid State Depot, Boulder Hackerspace** [**https://boulderhackerspace.com/wiki-embed/**](https://boulderhackerspace.com/wiki-embed/)
+
+**Bylaws - SolidStateDepot** [**https://boulderhackerspace.com/wiki/index.php?title=Bylaws**](https://boulderhackerspace.com/wiki/index.php?title=Bylaws)
+
+**Certified B Corporation -** [**https://bcorporation.net/**](https://bcorporation.net/)
+
+**Membership Materials - Google Drive** [**https://drive.google.com/drive/folders/0B7p6GERMDRBNTmZHa2o4S0JBTUk**](https://drive.google.com/drive/folders/0B7p6GERMDRBNTmZHa2o4S0JBTUk)
+
+**Resources - Fort Collins Creator Hub** [**https://www.fortcollinscreatorhub.org/resources/**](https://www.fortcollinscreatorhub.org/resources/)
+
+**Rules and Policies - Dallas Makerspace** [**https://dallasmakerspace.org/wiki/Rules\_and\_Policies**](https://dallasmakerspace.org/wiki/Rules_and_Policies)
+
+**Area Champion - faq \[Milwaukee Makerspace Wiki\]** [**https://wiki.milwaukeemakerspace.org/faq\#what\_is\_an\_area\_champion**](https://wiki.milwaukeemakerspace.org/faq#what_is_an_area_champion)
+
+**projectstorage \[Milwaukee Makerspace Wiki\]** [**https://wiki.milwaukeemakerspace.org/projectstorage**](https://wiki.milwaukeemakerspace.org/projectstorage)
+
+**might be good policies to grab from here - Pumping Station: One Wiki** [**https://wiki.pumpingstationone.org/Main\_Page**](https://wiki.pumpingstationone.org/Main_Page)
+
+\*\*\*\*
+
+**to do -add faqs and wiki to gitbook** [**https://www.fatcatfablab.org/faqs**](https://www.fatcatfablab.org/faqs)
+
+[**https://civicrm.fatcatfablab.org/wiki/fcfl-wiki**](https://civicrm.fatcatfablab.org/wiki/fcfl-wiki)  
   
 
 
