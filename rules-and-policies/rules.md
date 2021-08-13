@@ -55,32 +55,22 @@ We thank our attendees for their help in keeping our events welcoming, respectfu
 
 ### COVID-19 specific
 
-This is a list of rules to mitigate the risk of spreading COVID-19. \(Last updated: 03/17.2021\)
+This is a list of rules to mitigate the risk of spreading COVID-19. \(Last updated: 06/23.2021\)
 
 1. All members must read and agree to these new rules to enter the lab.
-2. Access to the lab will be restricted to reservation-only for members and guests; all members are required to reserve time at the space ahead of their visit as well as for their guests. Reservations can be made at: [https://civicrm.fatcatfablab.org/](https://civicrm.fatcatfablab.org/) \(sign-in required\)
-3. The shop requires an additional reservation if using it as your work area.
-4. You may not enter before your reservation, and must leave promptly when your time is up.
-5. Each time you visit the space, you may be asked questions regarding symptoms and record temperature. Please answer these as accurately as possible. If you have any doubt about your health condition or exposure status, please do not come to the lab.
-6. Wear a mask. Ensure the mask seals over your face properly and covers your nose and chin.  Eating is permitted while you are socially distanced. 
-7. You are encouraged to wash/sanitize your hands immediately upon entering and before leaving.
-8. Stay 6 feet apart from others at all times. Please use the center of the circular social distancing markers as your work area. 
-9. Report symptoms or confirmed cases IMMEDIATELY to contact-tracing@fatcatfablab.org if you have been in the space in the past 2 weeks.
-10. Each room will have a maximum capacity.  Respect the limits posted in each space. If a room is at capacity, wait for someone to leave, or quickly walk through it.
-11. Recently sick? Stay away. Do not come until the following conditions have been met:
+2. Each time you visit the space, you may be asked questions regarding symptoms and record temperature. Please answer these as accurately as possible. If you have any doubt about your health condition or exposure status, please do not come to the lab.
+3. Wear a mask. Ensure the mask seals over your face properly and covers your nose and chin.  Eating is permitted while you are socially distanced. 
+4. You are encouraged to wash/sanitize your hands immediately upon entering and before leaving.
+5. Report symptoms or confirmed cases IMMEDIATELY to contact-tracing@fatcatfablab.org if you have been in the space in the past 2 weeks.
+6. Recently sick? Stay away. Do not come until the following conditions have been met:
     1. 3 days with no fever and
     2. Symptoms improved and
     3. 10 days since symptoms first appeared
-12. Be responsible for enforcing these rules and keeping each other safe. If you see someone breaking these rules, say something to them or to the board@fatcatfablab.org.
-13. Members are responsible for reserving for their guests. No public visitors. \(Exception: prospective members that have a reservation through a member, contractors performing work or building managers.\)
-14. If a member is caught violating these new rules, they will be notified and reminded to follow these rules. After 3 notices, your access will be temporarily suspended for 7 days. Repeated violations could result in suspension of membership.
-15. Note: These rules may change, with or without notice, in order to comply with local, state and national regulations and to implement best practices.
+7. Be responsible for enforcing these rules and keeping each other safe. If you see someone breaking these rules, say something to them or to the board@fatcatfablab.org.
+8. Members are responsible for reserving for their guests. No public visitors. \(Exception: prospective members that have a reservation through a member, contractors performing work or building managers.\)
+9. If a member is caught violating these new rules, they will be notified and reminded to follow these rules. After 3 notices, your access will be temporarily suspended for 7 days. Repeated violations could result in suspension of membership.
+10. Note: These rules may change, with or without notice, in order to comply with local, state and national regulations and to implement best practices.
 
-| TOTAL LAB CAPACITY | 10 |
-| :--- | :--- |
-| SHOP CAPACITY | 3 |
-
-\(The SHOP is part of the LAB\)
 
 Thank you for helping to keep Fat Cat Fab Lab a safe place ♥️
 
