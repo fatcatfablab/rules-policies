@@ -60,16 +60,17 @@ This is a list of rules to mitigate the risk of spreading COVID-19. \(Last updat
 1. All members must read and agree to these new rules to enter the lab.
 2. Each time you visit the space, you may be asked questions regarding symptoms and record temperature. Please answer these as accurately as possible. If you have any doubt about your health condition or exposure status, please do not come to the lab.
 3. Wear a mask. Ensure the mask seals over your face properly and covers your nose and chin.  Eating is permitted while you are socially distanced. 
-4. You are encouraged to wash/sanitize your hands immediately upon entering and before leaving.
-5. Report symptoms or confirmed cases IMMEDIATELY to contact-tracing@fatcatfablab.org if you have been in the space in the past 2 weeks.
-6. Recently sick? Stay away. Do not come until the following conditions have been met:
+4. Eating and drinking of alcohol in the lab are not allowed. -  Will revisit 10/13/21
+5. You are encouraged to wash/sanitize your hands immediately upon entering and before leaving.
+6. Report symptoms or confirmed cases IMMEDIATELY to contact-tracing@fatcatfablab.org if you have been in the space in the past 2 weeks.
+7. Recently sick? Stay away. Do not come until the following conditions have been met:
     1. 3 days with no fever and
     2. Symptoms improved and
     3. 10 days since symptoms first appeared
-7. Be responsible for enforcing these rules and keeping each other safe. If you see someone breaking these rules, say something to them or to the board@fatcatfablab.org.
-8. Members are responsible for reserving for their guests. No public visitors. \(Exception: prospective members that have a reservation through a member, contractors performing work or building managers.\)
-9. If a member is caught violating these new rules, they will be notified and reminded to follow these rules. After 3 notices, your access will be temporarily suspended for 7 days. Repeated violations could result in suspension of membership.
-10. Note: These rules may change, with or without notice, in order to comply with local, state and national regulations and to implement best practices.
+8. Be responsible for enforcing these rules and keeping each other safe. If you see someone breaking these rules, say something to them or to the board@fatcatfablab.org.
+9. Members are responsible for reserving for their guests. No public visitors. \(Exception: prospective members that have a reservation through a member, contractors performing work or building managers.\)
+10. If a member is caught violating these new rules, they will be notified and reminded to follow these rules. After 3 notices, your access will be temporarily suspended for 7 days. Repeated violations could result in suspension of membership.
+11. Note: These rules may change, with or without notice, in order to comply with local, state and national regulations and to implement best practices.
 
 
 Thank you for helping to keep Fat Cat Fab Lab a safe place ♥️
