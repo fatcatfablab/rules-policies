@@ -55,7 +55,7 @@ We thank our attendees for their help in keeping our events welcoming, respectfu
 
 ### COVID-19 specific
 
-This is a list of rules to mitigate the risk of spreading COVID-19. \(Last updated: 06/23.2021\)
+This is a list of rules to mitigate the risk of spreading COVID-19. \(Last updated: 08/13/2021\)
 
 1. All members must read and agree to these new rules to enter the lab.
 2. Each time you visit the space, you may be asked questions regarding symptoms and record temperature. Please answer these as accurately as possible. If you have any doubt about your health condition or exposure status, please do not come to the lab.
