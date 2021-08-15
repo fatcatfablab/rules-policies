@@ -59,7 +59,7 @@ This is a list of rules to mitigate the risk of spreading COVID-19. \(Last updat
 
 1. All members must read and agree to these new rules to enter the lab.
 2. Each time you visit the space, you may be asked questions regarding symptoms and record temperature. Please answer these as accurately as possible. If you have any doubt about your health condition or exposure status, please do not come to the lab.
-3. Wear a mask. Ensure the mask seals over your face properly and covers your nose and chin.  Eating is permitted while you are socially distanced. 
+3. Wear a mask. Ensure the mask seals over your face properly and covers your nose and chin.
 4. Eating and drinking of alcohol in the lab are not allowed. -  Will revisit 10/13/21
 5. You are encouraged to wash/sanitize your hands immediately upon entering and before leaving.
 6. Report symptoms or confirmed cases IMMEDIATELY to contact-tracing@fatcatfablab.org if you have been in the space in the past 2 weeks.
